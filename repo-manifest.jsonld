@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/mosaicml/composer/commit/6405188805a0054b4551ec49e4919c54c971d0e8",
       "git:hexsha": "6405188805a0054b4551ec49e4919c54c971d0e8",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-17T15:06:53.544315+00:00"
     },
     {
       "@id": "https://repolex.ai/r/mosaicml/composer/commit/aa19e2466369a7f8b9bc7eca39a40ec3e69877d5",
