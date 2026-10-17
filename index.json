@@ -1,0 +1,11 @@
+{
+  "org": "mosaicml",
+  "repo": "composer",
+  "versions": [
+    {
+      "commit": "6405188805a0054b4551ec49e4919c54c971d0e8",
+      "tag": "",
+      "parsed_at": "2026-10-17T15:06:53.545288+00:00"
+    }
+  ]
+}
